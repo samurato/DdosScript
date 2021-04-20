@@ -1,11 +1,13 @@
 # DdosScript
-#DDos Attack in the send form Tested to work with emailJS
+#DDos Attack in the send form Tested to work with emailJS<br />
+using Multi threading 
+
 """
-Strongly advised not to use this code
-Use at your own risk or with prior consent of the owner or with legal warrant.
-Author or anyone involved in development of the code is not responsible for the outcome due to this code 
-Author : Samrat Pant
-samrat.sammie@gmail.com
+Strongly advised not to use this code<br />
+Use at your own risk or with prior consent of the owner or with legal warrant.<br />
+Author or anyone involved in development of the code is not responsible for the outcome due to this code <br />
+Author : Samrat Pant<br />
+samrat.sammie@gmail.com<br />
 """
      
      ...----....
